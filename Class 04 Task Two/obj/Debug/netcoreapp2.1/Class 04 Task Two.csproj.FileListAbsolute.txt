@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Class 04 Task Two\Class 04 Task Two\bin\Debug\netcoreapp2.1\Class 04 Task Two.deps.json
+C:\Users\User\source\repos\Class 04 Task Two\Class 04 Task Two\bin\Debug\netcoreapp2.1\Class 04 Task Two.runtimeconfig.json
+C:\Users\User\source\repos\Class 04 Task Two\Class 04 Task Two\bin\Debug\netcoreapp2.1\Class 04 Task Two.runtimeconfig.dev.json
+C:\Users\User\source\repos\Class 04 Task Two\Class 04 Task Two\bin\Debug\netcoreapp2.1\Class 04 Task Two.dll
+C:\Users\User\source\repos\Class 04 Task Two\Class 04 Task Two\bin\Debug\netcoreapp2.1\Class 04 Task Two.pdb
+C:\Users\User\source\repos\Class 04 Task Two\Class 04 Task Two\obj\Debug\netcoreapp2.1\Class 04 Task Two.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Class 04 Task Two\Class 04 Task Two\obj\Debug\netcoreapp2.1\Class 04 Task Two.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Class 04 Task Two\Class 04 Task Two\obj\Debug\netcoreapp2.1\Class 04 Task Two.AssemblyInfo.cs
+C:\Users\User\source\repos\Class 04 Task Two\Class 04 Task Two\obj\Debug\netcoreapp2.1\Class 04 Task Two.dll
+C:\Users\User\source\repos\Class 04 Task Two\Class 04 Task Two\obj\Debug\netcoreapp2.1\Class 04 Task Two.pdb
